@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSelect">#ff8827</color>
+    <color name="normal">#dadada</color>
+    <color name="white">#ffffffff</color>
+    <color name="background">#00ffffff</color>
+    <!--PhotoEditeDemo-->
+    <color name="top_bar_bg">#66000000</color>
+    <color name="common_bg">#ff282828</color>
+    <!--PhotoEditeDemo-->
+</resources>

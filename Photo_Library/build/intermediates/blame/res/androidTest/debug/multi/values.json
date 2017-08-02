@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "C:\\Users\\860617010\\Desktop\\ImageEditor-Android-master\\FilterDemo\\Photo_Library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 57,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "C:\\Users\\860617010\\Desktop\\ImageEditor-Android-master\\FilterDemo\\Photo_Library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 57,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endColumn": 55,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\860617010\\Desktop\\ImageEditor-Android-master\\FilterDemo\\Photo_Library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endColumn": 55,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 40,
+                    "endOffset": 617
+                },
+                "from": {
+                    "file": "C:\\Users\\860617010\\Desktop\\ImageEditor-Android-master\\FilterDemo\\Photo_Library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 40,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 622,
+                    "endColumn": 41,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "C:\\Users\\860617010\\Desktop\\ImageEditor-Android-master\\FilterDemo\\Photo_Library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 41,
+                        "endOffset": 659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 52,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "C:\\Users\\860617010\\Desktop\\ImageEditor-Android-master\\FilterDemo\\Photo_Library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 664,
+                        "endColumn": 52,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 45,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "C:\\Users\\860617010\\Desktop\\ImageEditor-Android-master\\FilterDemo\\Photo_Library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 45,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 52,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Users\\860617010\\Desktop\\ImageEditor-Android-master\\FilterDemo\\Photo_Library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 52,
+                        "endOffset": 811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "C:\\Users\\860617010\\Desktop\\ImageEditor-Android-master\\FilterDemo\\Photo_Library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "C:\\Users\\860617010\\Desktop\\ImageEditor-Android-master\\FilterDemo\\Photo_Library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1107,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1262
+                    }
+                }
+            }
+        ]
+    }
+]
